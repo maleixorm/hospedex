@@ -7,8 +7,44 @@ namespace hospedex.Models
 {
     public class Reserva
     {
-        List<Pessoa> hospedes = new List<Pessoa>();
-        Suite suite = new Suite();
+        public List<Pessoa> Hospedes { get; set; }
+        public Suite Suite { get; set; }
         public int DiasReservados;
+
+        public Reserva() {}
+
+        public Reserva(int diasReservados)
+        {
+            DiasReservados = diasReservados;
+        }
+
+        public void CadastrarHospedes(List<Pessoa> hospedes)
+        {
+            if (hospedes.Count() <= Suite.Capacidade)
+            {
+                Hospedes = hospedes;
+            }
+            else
+            {
+                throw new Exception("A suíte não comporta a quantidade de pessoas indicada!");
+            }
+        }
+
+        public void CadastrarSuite(Suite suite)
+        {
+            Suite = suite;
+        }
+
+        public int ObterQuantidadeHospedes()
+        {
+            int quantidadeHospedes = Hospedes.Count();
+            return quantidadeHospedes;
+        }
+
+        public decimal CalcularValorDiaria()
+        {
+            decimal valorTotal = DiasReservados * Suite.ValorDiaria;
+            return valorTotal;
+        }
     }
 }
