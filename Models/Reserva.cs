@@ -43,7 +43,12 @@ namespace hospedex.Models
 
         public decimal CalcularValorDiaria()
         {
-            decimal valorTotal = DiasReservados * Suite.ValorDiaria;
+            decimal desconto = 0;
+            if (DiasReservados >= 10)
+            {
+                desconto = DiasReservados * Suite.ValorDiaria * 0.10M;
+            }
+            decimal valorTotal = DiasReservados * Suite.ValorDiaria - desconto;
             return valorTotal;
         }
     }
