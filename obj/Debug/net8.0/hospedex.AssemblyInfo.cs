@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hospedex")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83682bbba3a91cea9ba6c20cc3631c6d755e5ad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c8076a15f3a6e6fd351bc080cbcc141597b82a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("hospedex")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hospedex")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
