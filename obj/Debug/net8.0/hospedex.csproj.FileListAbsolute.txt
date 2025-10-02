@@ -1,0 +1,15 @@
+C:\Apache24\htdocs\hospedex\bin\Debug\net8.0\hospedex.exe
+C:\Apache24\htdocs\hospedex\bin\Debug\net8.0\hospedex.deps.json
+C:\Apache24\htdocs\hospedex\bin\Debug\net8.0\hospedex.runtimeconfig.json
+C:\Apache24\htdocs\hospedex\bin\Debug\net8.0\hospedex.dll
+C:\Apache24\htdocs\hospedex\bin\Debug\net8.0\hospedex.pdb
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.AssemblyInfoInputs.cache
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.AssemblyInfo.cs
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.csproj.CoreCompileInputs.cache
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.sourcelink.json
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.dll
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\refint\hospedex.dll
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.pdb
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\hospedex.genruntimeconfig.cache
+C:\Apache24\htdocs\hospedex\obj\Debug\net8.0\ref\hospedex.dll

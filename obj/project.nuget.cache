@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nAMhnhx039+Qy5Hc9wWJYgP4d1FQQeb7toApD5OLiIsNfiLwgFmAR9uzrt7gIZLLbANLM5oE/6Qn0M5ixAPfKw==",
+  "dgSpecHash": "KSgkxiDgESg=",
   "success": true,
-  "projectFilePath": "/var/www/html/hospedex/hospedex.csproj",
+  "projectFilePath": "C:\\Apache24\\htdocs\\hospedex\\hospedex.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
